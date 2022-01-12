@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Fri Dec  3 18:30:31 2021
+# Process ID: 18568
+# Current directory: C:/Users/acraddick/Hello_world/Hello_world.runs/synth_1
+# Command line: vivado.exe -log Test.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Test.tcl
+# Log file: C:/Users/acraddick/Hello_world/Hello_world.runs/synth_1/Test.vds
+# Journal file: C:/Users/acraddick/Hello_world/Hello_world.runs/synth_1\vivado.jou
+# Running On: SRS1693, OS: Windows, CPU Frequency: 2904 MHz, CPU Physical cores: 8, Host memory: 34125 MB
+#-----------------------------------------------------------
+source Test.tcl -notrace

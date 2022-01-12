@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"UART_RX_top_tb_func_synth.vhd" \
+"../../../../../Hello_world.srcs/sim_1/new/UART_RX_top_tb.vhd" \
+
+# Do not sort compile order
+nosort

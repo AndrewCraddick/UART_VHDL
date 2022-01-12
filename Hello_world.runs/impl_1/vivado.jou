@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Fri Dec  3 18:33:02 2021
+# Process ID: 3616
+# Current directory: C:/Users/acraddick/Hello_world/Hello_world.runs/impl_1
+# Command line: vivado.exe -log Test.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Test.tcl -notrace
+# Log file: C:/Users/acraddick/Hello_world/Hello_world.runs/impl_1/Test.vdi
+# Journal file: C:/Users/acraddick/Hello_world/Hello_world.runs/impl_1\vivado.jou
+# Running On: SRS1693, OS: Windows, CPU Frequency: 2904 MHz, CPU Physical cores: 8, Host memory: 34125 MB
+#-----------------------------------------------------------
+source Test.tcl -notrace

@@ -1,0 +1,8 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/acraddick/Hello_world/Hello_world.sim/sim_1/impl/func/xsim/UART_RX_top_tb_func_impl.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Test'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/acraddick/Hello_world/Hello_world.srcs/sim_1/new/UART_RX_top_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'UART_RX_top_tb'
+ERROR: [VRFC 10-719] formal port/generic <uart_txd_in> is not declared in <test> [C:/Users/acraddick/Hello_world/Hello_world.srcs/sim_1/new/UART_RX_top_tb.vhd:63]
+ERROR: [VRFC 10-3353] formal port 'uart_rxd_out' has no actual or default value [C:/Users/acraddick/Hello_world/Hello_world.srcs/sim_1/new/UART_RX_top_tb.vhd:59]
+ERROR: [VRFC 10-3782] unit 'behavioral' ignored due to previous errors [C:/Users/acraddick/Hello_world/Hello_world.srcs/sim_1/new/UART_RX_top_tb.vhd:19]
+INFO: [VRFC 10-3070] VHDL file 'C:/Users/acraddick/Hello_world/Hello_world.srcs/sim_1/new/UART_RX_top_tb.vhd' ignored due to errors
